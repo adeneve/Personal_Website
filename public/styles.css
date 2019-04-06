@@ -8,7 +8,7 @@
 		
     }
 .keywords {
-	font-size:calc(1em + 0.8vmin);
+	font-size:calc(0.8em + 0.8vmin);
 	color: #7deb71;
 	text-align:center;
 	
@@ -17,7 +17,7 @@
 }
 .footer{
 	width:40%;
-	font-size:calc(1em + 0.8vmin);
+	font-size:calc(0.8em + 0.8vmin);
 	height:50%;
 	z-index:-1;
 	float:right;
@@ -34,7 +34,7 @@
 }
 
 #listStyle{
-	font-size:calc(1em + 2vmin);
+	font-size:calc(0.5em + 3vmin);
 	color: #669432;
 	padding-left:20px;
 	padding-top:3px;
